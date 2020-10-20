@@ -4,4 +4,6 @@ Be a data scientist from zero to hero
 *October-November: Join Digital Talent Scholarship with topic Machine Learning held by Kominfo at Universitas Gunadarma, Cikunir
 *December: learn data wrangling and data visualization at cognitiveclass.ai 
 *January-April : Join Data Scientist Internship at Asuransi Jiwa Manulife
-*January-June: Join Bangkit held by Google x Gojek x Tokopedia x Traveloka 
+
+
+*Oct: Join Berca
