@@ -1,7 +1,12 @@
 Oct 2020
+WEEK 1
 12 Oct 2020: first day at PT Berca Hardayaperkasa
 13 Oct 2020: complete the document.
 14 Oct 2020: first morning call with CS DnA Team
 15 Oct 2020: Transfer knowledge about Tibco Data Science with Mas Sofian
 16 Oct 2020: Explore Tibco Data Science
 17 Oct 2020: Transfer knowledge about Sales Force Automation
+
+WEEK 2
+19 Ocr 2020: Copy folder and sharing about the project with Mas Sofian @Harapan Indah, Bekasi
+20 Oct 2020: installing all the apps programming python, R, VSC, BI, etc.
